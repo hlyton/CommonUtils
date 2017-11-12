@@ -53,11 +53,7 @@ public class ObjDeepClone {
 	}
 
 	
-	/**
-	 * 测试
-	 * 
-	 * @param args
-	 */
+	/*
 	public static void main(String[] args) {
 
 		Address add1 = new Address("1111addr");
@@ -76,21 +72,15 @@ public class ObjDeepClone {
 		System.out.println();
 		System.out.println();
 
-	}
+	}*/
 
 }
 
-/**
- * 测试用类
- * 
- * @author hlyton
- *
- */
+
+/*
 class Address implements Serializable {
 
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = -7868747122044247754L;
 	private String name;
 
@@ -109,17 +99,9 @@ class Address implements Serializable {
 
 }
 
-/**
- * 测试用类
- * 
- * @author hlyton
- *
- */
+
 class People implements Serializable {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = -2144690575830195687L;
 
 	String name;
@@ -160,3 +142,8 @@ class People implements Serializable {
 	}
 
 }
+*/
+
+
+
+
